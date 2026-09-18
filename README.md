@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ CCTV Carindale — Professional Security Camera Installation
+# 🛡️ CCTV Stretton | Astro 5 Local Service Platform
 
-**High-converting, modular Astro 5 web platform engineered for local residential and commercial CCTV installation in Carindale (4152) and South-East Brisbane.**
+**High-converting, modular Astro 5 web platform engineered for local residential and commercial CCTV installation in Stretton (4116) and South Brisbane.**
 
 [![Astro](https://img.shields.io/badge/Astro-5.0.0-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
